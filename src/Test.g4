@@ -1,0 +1,4 @@
+grammar Test;
+
+expr: '⇔';
+
